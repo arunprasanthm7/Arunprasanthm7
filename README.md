@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arunprasanthm7
 - 👀 I’m interested in frontend developing 
-- 🌱 I’m currently learning javascript,next.js
+- 🌱 I’m currently learning javascript,react.js
 - 💞️ I’m looking to collaborate on any opensource projects
 
 <!---
