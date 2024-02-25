@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Arun
-- 👀 I’m interested in frontend developing 
-- 🌱 I’m currently learning javascript,react.js
+- 👀 I’m interested in frontend development
+- 🌱 I have skills in  html,css,scss,typescript,react,angular,sql,typeORM.
 - 💞️ I’m looking to collaborate on any opensource projects
 
 <!---
